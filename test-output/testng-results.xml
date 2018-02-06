@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AmazonApp_Automation" duration-ms="54220" started-at="2018-02-06T08:38:55Z" finished-at="2018-02-06T08:39:49Z">
+    <groups>
+    </groups>
+    <test name="Android Emulator" duration-ms="54220" started-at="2018-02-06T08:38:55Z" finished-at="2018-02-06T08:39:49Z">
+      <class name="com.sp.testscripts.AppiumSampleTestSuite">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.sp.testscripts.AppiumSampleTestSuite@70325e14]" name="setup" is-config="true" duration-ms="34720" started-at="2018-02-06T14:08:55Z" finished-at="2018-02-06T14:09:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[androidemulator]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[android]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login(com.sp.datainitialization.DataInt)[pri:0, instance:com.sp.testscripts.AppiumSampleTestSuite@70325e14]" name="Login" duration-ms="14146" started-at="2018-02-06T14:09:30Z" description="Login" data-provider="getLogin" finished-at="2018-02-06T14:09:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.sp.datainitialization.DataInt@3e14c16d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.sp.testscripts.AppiumSampleTestSuite@70325e14]" name="closesetup" is-config="true" duration-ms="5314" started-at="2018-02-06T14:09:44Z" finished-at="2018-02-06T14:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+      </class> <!-- com.sp.testscripts.AppiumSampleTestSuite -->
+    </test> <!-- Android Emulator -->
+  </suite> <!-- AmazonApp_Automation -->
+</testng-results>

@@ -1,0 +1,9 @@
+2017-07-12 14:50:45 INFO  Base:40 - Device Name:androidemulator
+2017-07-12 14:50:45 INFO  Base:41 - PlatFormName:android
+2017-07-12 14:50:45 INFO  Base:43 - Getting appiumServiceUrl:http://0.0.0.0:4723/wd/hub
+2018-02-06 13:43:05 INFO  Base:40 - Device Name:androidemulator
+2018-02-06 13:43:05 INFO  Base:41 - PlatFormName:android
+2018-02-06 13:43:05 INFO  Base:43 - Appium Service Address :http://0.0.0.0:4723/wd/hub
+2018-02-06 14:09:14 INFO  Base:40 - Device Name:androidemulator
+2018-02-06 14:09:14 INFO  Base:41 - PlatFormName:android
+2018-02-06 14:09:14 INFO  Base:43 - Appium Service Address :http://0.0.0.0:4723/wd/hub

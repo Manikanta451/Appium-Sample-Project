@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/jars/apache-log4j-extras-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/jars/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="E:/jars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/jars/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="E:/jars/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="E:/jars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="E:/jars/New folder/java-client-4.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/jars/AT Excel Report Jars/ATExcelReport.jar"/>
+	<classpathentry kind="lib" path="E:/jars/AT Excel Report Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/jars/AT Excel Report Jars/jfreechart.jar"/>
+	<classpathentry kind="lib" path="E:/jars/AT Excel Report Jars/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/jars/AT Excel Report Jars/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/jars/AT Excel Report Jars/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/jars/New folder/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/jars/New folder/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="E:/jars/jcommon-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/jars/extentreports-2.41.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/jars/junit-4.10.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

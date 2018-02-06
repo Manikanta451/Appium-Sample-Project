@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="3" name="Failed suite [FlipcartApp_Automation]">
+  <parameter name="platformName" value="Android"/>
+  <parameter name="deviceName" value="AndroidEmulator"/>
+  <test name="Android SamsungJ7(failed)">
+    <parameter name="platformName" value="Android"/>
+    <parameter name="deviceName" value="AndroidEmulator"/>
+    <classes>
+      <class name="com.sp.testscripts.AppiumSampleTestSuite">
+        <methods>
+          <include name="Login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.sp.testscripts.AppiumSampleTestSuite -->
+    </classes>
+  </test> <!-- Android SamsungJ7(failed) -->
+</suite> <!-- Failed suite [FlipcartApp_Automation] -->
